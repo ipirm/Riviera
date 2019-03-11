@@ -1,0 +1,92 @@
+//@media (min-width: 1000px) {
+//    .wrapper-news  .overlay-news{
+//        justify-content: space-between;
+//        .col-big__news{
+//        width: 66%;
+//            margin-right: 0px;
+//        }
+//    }
+//    .wrapper-news 
+//    {
+//        .col-news{
+//        width: 32%;
+//            padding-right: 0px;
+//    }
+//    }
+//    
+//}
+//
+//@media (max-width: 800px) {
+//    
+//    
+//    .wrapper-news {
+//        .col-news {
+//    width: 50%;
+//        }
+//         .col-big__news {
+//    width: 100%;
+//}
+//}
+//    .wrapper-events {
+//        .events-col{
+//                width: 48%;
+//    margin-right: 0px;
+//        }
+//}
+//
+//@media (max-width: 1000px) {
+//    .wrapper-events{
+//        justify-content: space-between;
+//        .events-col{
+//            width: 32%;
+//            margin-right: 0px;
+//        }
+//    }
+//    
+//    
+//}
+//@media (min-width: 600px){
+//    .container-content-main{
+//            width: 94%;
+//        margin: 0px auto;
+//    }
+//}
+//
+//@media (max-width: 800px){
+//    .wrapper-news{
+//    .col-big__news{
+//        margin: 0px;
+//    }
+//        .col-news{
+//            padding: 0px;
+//        }
+//        .overlay-news{
+//            justify-content: space-between;
+//        }
+//         .col-news{
+//            width: 48%;
+//        }
+//    }
+//}
+//@media (max-width: 500px){
+//    .container-content-main{
+//          width: 94%;
+//        margin: 0px auto;
+//        .col-news {
+//    width: 100%;
+//}
+//        }
+//}
+//@media (min-width: 1000px){
+//    .container-content-main{
+//        max-width: 960px;
+//        margin: 0px auto;
+//    }
+//}
+//
+//@media (min-width: 1200px){
+//    .container-content-main{
+//        max-width: 1183px;
+//        margin: 0px auto;
+//    }
+//}
